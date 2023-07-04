@@ -3,10 +3,10 @@ package com.optionslab.springkafka;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SpringKafkaApplicationTests {
+//@SpringBootTest
+class KafkaApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 

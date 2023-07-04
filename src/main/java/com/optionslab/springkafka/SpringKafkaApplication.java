@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Bean;
 
 import java.beans.BeanProperty;
 
-@SpringBootApplication
-@RestController
+//@SpringBootApplication
+//@RestController
 public class SpringKafkaApplication {
 
 	public static void main(String[] args) {
