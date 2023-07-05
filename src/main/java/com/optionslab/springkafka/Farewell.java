@@ -1,4 +1,4 @@
-package com.baeldung.spring.kafka;
+package com.optionslab.springkafka;
 
 public class Farewell {
 

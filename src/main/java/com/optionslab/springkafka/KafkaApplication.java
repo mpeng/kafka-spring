@@ -1,4 +1,4 @@
-package com.baeldung.spring.kafka;
+package com.optionslab.springkafka;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.CountDownLatch;
